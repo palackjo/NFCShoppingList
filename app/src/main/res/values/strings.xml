@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFCShoppingList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">Press the __ Button to add an item</string>
+</resources>
